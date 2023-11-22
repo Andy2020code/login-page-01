@@ -1,0 +1,12 @@
+.div-01-layout{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-01-body{
+    width: 1000px;
+    height: 700px;
+    border: 2px solid black;
+}
